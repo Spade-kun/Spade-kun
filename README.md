@@ -10,7 +10,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Read+Watch+Sleep!;Laravel+%7C+Android+%7C+AI)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Read+Watch+and+Sleep!;Web+Development+%7C+Android+%7C+AI)
 
 ---
 
