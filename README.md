@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Spade-kun!  
+# 👋 Hi, I'm Spade!  
 🔹 Average Student  
 🔹 Passionate about playing 
 
@@ -21,6 +21,10 @@
 
 ### **Frameworks & Tools**  
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Spade-kun&theme=tokyonight&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ---
 
