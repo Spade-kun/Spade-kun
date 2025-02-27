@@ -29,6 +29,11 @@
 
 ---
 
+## ⏳ Time Spent Coding  
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Spade-kun&layout=compact&theme=radical)](https://wakatime.com/@Spade-kun)
+
+---
+
 ## 📊 GitHub Stats  
 ![Spade-kun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spade-kun&show_icons=true&theme=radical)  
 ## 📊 Most Used Languages  
