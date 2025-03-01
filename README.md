@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Spade!  
 🔹 Average Student  
-🔹 Passionate about playing 
+🔹 Passionate about playing online games
 
 ## 🚀 About Me
 - 💻 Currently working on an **Enrollment System** using Laravel v11
