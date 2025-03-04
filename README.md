@@ -27,8 +27,6 @@
 ## 🔥 Streak Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Spade-kun&theme=radical)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Spade-kun&theme=radical)
-
 ---
 
 ## ⏳ Time Spent Coding  
