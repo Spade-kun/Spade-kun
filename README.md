@@ -40,7 +40,7 @@
 ---
 
 ## 📊 Most Used Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spade-kun&layout=compact&theme=radical&hide=css,scss,html)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spade-kun&layout=compact&theme=radical&hide=css,scss,html,hack)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
