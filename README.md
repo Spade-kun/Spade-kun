@@ -6,7 +6,7 @@
 - 💻 Currently working on an **Enrollment System** using Laravel v11
 - 📱 Developing a **Facebook UI Clone App** in Android Studio (Java)
 - 🎯 Learning more about **Machine Learning & AI**
-- ⚡ Fun fact: Im not good at coding but willing to learn! 
+- ⚡ Fun fact: **Im not good at coding but willing to learn!** 
 
 ---
 
